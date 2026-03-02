@@ -2,23 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://predict.christmas/</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://predict.christmas/privacy.html</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
-  <url><loc>https://predict.christmas/blog/christmas-shopping-predictions-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.christmas/blog/christmas-market-trends-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.christmas/blog/holiday-shopping-predictions-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.christmas/blog/christmas-weather-predictions-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.christmas/blog/toy-trend-predictions-2026.html</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.christmas/blog/holiday-travel-predictions-best-booking.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.christmas/blog/christmas-decoration-trends-predicted-2027.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.christmas/blog/christmas-toy-predictions-top-sellers-2026.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.christmas/blog/gift-card-market-predictions-2027.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://predict.christmas/blog-best-christmas-gifts-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.christmas/blog-black-friday-deals-predictions.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.christmas/blog-christmas-movies-rankings.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://predict.christmas/blog-predictions-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
